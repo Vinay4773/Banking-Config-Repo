@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jadhavss8043-lgtm/banking-config-repo
+          uri: https://github.com/Vinay4773/Banking-Config-Repo.git
           default-label: main
           clone-on-start: true
           timeout: 10
